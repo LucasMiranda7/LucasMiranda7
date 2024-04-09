@@ -1,6 +1,6 @@
 ## Olá! Sou o Lucas Miranda
 - Faculdade: Uninter
-- Focado em Front - End
+- Atualemente estou Estudando tanto Front-End como Back-End.
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMiranda7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)"/>
 ﾠﾠﾠ<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dark"/>
