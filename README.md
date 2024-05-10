@@ -14,7 +14,7 @@
  <img align="center" alt="Lucas-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </div><br/>
 
- <img align="right" alt="LucasCodes" height="250" width="250" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/76630b8f-59c5-4157-b3c1-3d81f681e760"/>
+ <img align="right" alt="LucasCodes" height="250" width="250" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
 
   ##
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-miranda7/)
