@@ -3,7 +3,7 @@
 - Atualmente estou focado em Front-End 
 <div>
 <img height="180"  src="https://github-readme-stats.vercel.app/api?username=LucasMiranda7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)"/>
-ﾠﾠﾠ<img height="180" width="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dark"/>
+ﾠﾠﾠ<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
  <div style="display: incline-block"><br/>
