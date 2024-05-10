@@ -2,8 +2,8 @@
 - Faculdade: Uninter
 - Atualmente estou Estudando tanto Front-End como Back-End.
 <div>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasMiranda7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)"/>
-ﾠﾠﾠ<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dark"/>
+<img height="180em" width="150" src="https://github-readme-stats.vercel.app/api?username=LucasMiranda7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)"/>
+ﾠﾠﾠ<img height="180em" width="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
  <div style="display: incline-block"><br/>
