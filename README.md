@@ -15,7 +15,7 @@
   
   <img align="center" alt="Lucas-github" height="60" width="60" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
 
- <img align="center" alt="Lucas-js" height="60" width="60" src="" />
+
   </div><br/>
 
  <img align="right" alt="LucasCodes" height="250" width="250" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
