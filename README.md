@@ -7,9 +7,11 @@
 </div>
 
  <div style="display: incline-block"><br/>
-  <img align="center" alt="Lucas-html" height="60" width="60" src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png" />
+  <img align="center" alt="Lucas-html" height="60" width="60" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/7457b501-9885-4004-964d-3f900e29639b
+" />
 
-  <img align="center" alt="Lucas-css" height="60" width="60" src="https://www.htmlecsspro.com/uploads/images/2018/03/aplicando-estilos-css-1521410533.png"/>
+  <img align="center" alt="Lucas-css" height="60" width="60" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/abe36063-cc92-4114-af95-596dc5a913bd
+"/>
 
   <img align="center" alt="Lucas-git" height="60" width="60" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"/>
   
