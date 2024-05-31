@@ -7,14 +7,13 @@
 </div>
 
  <div style="display: incline-block"><br/>
-  <img align="center" alt="Lucas-html" height="60" width="70" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/59c794f3-9902-4495-80de-c120a82e0814" />
+  <img align="center" alt="Lucas-html" height="60" width="80" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/59c794f3-9902-4495-80de-c120a82e0814" />
 
-  <img align="center" alt="Lucas-css" height="60" width="60" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/abe36063-cc92-4114-af95-596dc5a913bd
-"/>
+  <img align="center" alt="Lucas-css" height="60" width="80" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/5d601d57-e805-4fd0-8883-652714dc8049"/>
 
-  <img align="center" alt="Lucas-git" height="60" width="60" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"/>
+  <img align="center" alt="Lucas-git" height="60" width="80" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/aa01dd5d-1b39-43a6-ae41-65e4650baf8a"/>
   
-  <img align="center" alt="Lucas-github" height="60" width="60" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
+  <img align="center" alt="Lucas-github" height="60" width="80" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/c2547e93-b43b-4822-9ea5-6dcd318fc399"/>
 
 
   </div><br/>
