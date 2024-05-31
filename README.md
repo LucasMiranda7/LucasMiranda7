@@ -7,7 +7,7 @@
 </div>
 
  <div style="display: incline-block"><br/>
-  <img align="center" alt="Lucas-html" height="60" width="60" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/59c794f3-9902-4495-80de-c120a82e0814" />
+  <img align="center" alt="Lucas-html" height="60" width="70" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/59c794f3-9902-4495-80de-c120a82e0814" />
 
   <img align="center" alt="Lucas-css" height="60" width="60" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/abe36063-cc92-4114-af95-596dc5a913bd
 "/>
