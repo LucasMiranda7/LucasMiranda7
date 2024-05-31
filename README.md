@@ -9,7 +9,7 @@
  <div style="display: incline-block"><br/>
   <img align="center" alt="Lucas-html" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
-  <img align="center" alt="Lucas-css" height="60" width="60" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/0cb50a82-35a5-4da0-8559-03561face172"/>
+  <img align="center" alt="Lucas-css" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 
 
   </div><br/>
