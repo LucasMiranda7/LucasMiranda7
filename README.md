@@ -7,9 +7,9 @@
 </div>
 
  <div style="display: incline-block"><br/>
-  <img align="center" alt="Lucas-html" height="90" width="90" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/59c794f3-9902-4495-80de-c120a82e0814" />
+  <img align="center" alt="Lucas-html" height="90" width="120" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/59c794f3-9902-4495-80de-c120a82e0814" />
 
-  <img align="center" alt="Lucas-css" height="90" width="90" src="![(https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/0cb50a82-35a5-4da0-8559-03561face172"/>
+  <img align="center" alt="Lucas-css" height="90" width="90" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/0cb50a82-35a5-4da0-8559-03561face172"/>
 
   <img align="center" alt="Lucas-git" height="80" width="80" src="https://github.com/LucasMiranda7/LucasMiranda7/assets/143975592/67901bfe-8845-4476-9311-8a306c491e3b"/>
   
