@@ -1,5 +1,5 @@
 ## 👨‍💻Olá! Sou o Lucas Miranda
-<img align="center" alt="" src="./src/header-gif.gif">
+
 <div>
 <h2>Sobre Mim</h2>
 <p>Prazer, meu nome é Lucas Miranda. Tenho 19 anos e atualmente faço faculdade de Engenharia de Software na Uninter (EAD), cursando o 1º semestre.
@@ -13,8 +13,16 @@ Acabei me destacando no projeto:
 - Me classifiquei para a etapa final de projetos mais destacados, na qual fiquei na 7ª posição e recebi uma premiação da Alura.
 </p>
 
+<table>
+  <tr>
+    <td>
 <img height="180"  src="https://github-readme-stats.vercel.app/api?username=LucasMiranda7&show_icons=true&theme=dracula"/> 
+      </td>
+    <td>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dracula"/>
+      </td>
+   </tr>
+ </table>
 </div>
 
 <div>
