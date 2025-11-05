@@ -25,6 +25,11 @@ Acabei me destacando no projeto:
  </table>
 </div>
 
+## Skills
+<div>
+ 
+</div>
+
 <div>  
  <h2>Redes para contato</h2>
    <a href="https://www.linkedin.com/in/lucas-miranda7/" target="_blank">
@@ -36,9 +41,9 @@ Acabei me destacando no projeto:
 </div>
 
  <div>
-    <img align="right" height="150" src="![levi](https://github.com/user-attachments/assets/72c38c13-e7a4-461f-ab5f-61a7960a1535)
-"  />
+    <img align="right" alt="LucasCodes" height="250" src="https://github.com/user-attachments/assets/72c38c13-e7a4-461f-ab5f-61a7960a1535"/
   </div>
+ 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasMiranda7&style=flat-square&color=blueviolet" alt="Profile views">
 </div>
