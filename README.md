@@ -23,5 +23,5 @@ Acabei me destacando no projeto:
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaikyalvaro1708&style=flat-square&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=LucasMiranda7&style=flat-square&color=blueviolet" alt="Profile views">
 </div>
