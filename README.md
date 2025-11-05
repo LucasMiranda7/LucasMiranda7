@@ -18,5 +18,10 @@ Acabei me destacando no projeto:
 </div>
 
 <div>
-<a href="https://www.instagram.com/ilucas_codes/" target="_blank"><img src="img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+ <a href="https://www.instagram.com/ilucas.codes/reels/" target="_blank">
+    <img src="https://img.shields.io/badge/-Ver%20Reels-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaikyalvaro1708&style=flat-square&color=blueviolet" alt="Profile views">
 </div>
