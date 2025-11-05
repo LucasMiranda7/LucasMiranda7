@@ -1,8 +1,15 @@
 ## 👨‍💻Olá! Sou o Lucas Miranda
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=500&lines=Entusiasta+de+Tecnologia;Sempre+Aprendendo;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+</div>
 <p>-Software engineering | Front-end </p>
 
-<h2> Sobre Mim</h2>
+<h2>Sobre Mim:</h2>
+
+
 <div>
+ <h2>Estatísticas:</h2>
 <img height="180"  src="https://github-readme-stats.vercel.app/api?username=LucasMiranda7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)"/> 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dark"/>
 </div>
