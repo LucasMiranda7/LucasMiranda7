@@ -17,3 +17,6 @@ Acabei me destacando no projeto:
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<div>
+<a href="https://www.instagram.com/ilucas_codes/" target="_blank"><img src="img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+</div>
