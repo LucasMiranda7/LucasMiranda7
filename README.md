@@ -1,5 +1,7 @@
-## Olá! Sou o Lucas Miranda
-<kbd>-Software engineering | Front-end </kbd>
+##👨‍💻Olá! Sou o Lucas Miranda
+<p>-Software engineering | Front-end </p>
+
+<h2> Sobre Mim</h2>
 <div>
 <img height="180"  src="https://github-readme-stats.vercel.app/api?username=LucasMiranda7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)"/> 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dark"/>
