@@ -12,6 +12,4 @@ Acabei me destacando no projeto:
 - Me classifiquei para a etapa final de projetos mais destacados, na qual fiquei na 7ª posição e recebi uma premiação da Alura.
 </p>
 
-<img height="180"  src="https://github-readme-stats.vercel.app/api?username=LucasMiranda7&show_icons=true&theme=dracula"/> 
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180"  src="https://github-readme-stats.vercel.app/api?username=LucasMiranda7&show_icons=true&theme=dracula"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMiranda7&layout=compact&langs_count=16&theme=dracula"/>
