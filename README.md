@@ -25,7 +25,7 @@ Acabei me destacando no projeto:
  </table>
 </div>
 
-<div>
+<div>  
  <h2>Redes para contato</h2>
    <a href="https://www.linkedin.com/in/lucas-miranda7/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -33,12 +33,12 @@ Acabei me destacando no projeto:
  <a href="https://www.instagram.com/ilucas_codes/reels/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  
-  ###
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ1Y2VmazZncWExdTE0dWpzbzZrNm85bjByaXdrYjloenk3YjB3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tliXLSkzfq2C4/giphy.gif"  />
 </div>
 
-
+ <div>
+    <img align="right" height="150" src="![levi](https://github.com/user-attachments/assets/72c38c13-e7a4-461f-ab5f-61a7960a1535)
+"  />
+  </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasMiranda7&style=flat-square&color=blueviolet" alt="Profile views">
 </div>
