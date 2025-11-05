@@ -45,13 +45,10 @@ Acabei me destacando no projeto:
   </a>
 </div>
 
- <div align="center">
+ <div align="right">
     <img src="https://komarev.com/ghpvc/?username=LucasMiranda7&style=flat-square&color=blueviolet" alt="Profile views">
-    <img align="right" alt="LucasCodes" height="250" src="https://github.com/user-attachments/assets/72c38c13-e7a4-461f-ab5f-61a7960a1535"/
+    <img align="right" alt="LucasCodes" height="200" src="https://github.com/user-attachments/assets/72c38c13-e7a4-461f-ab5f-61a7960a1535"/
   </div>
  
-<div align="right">
- 
-</div>
 
 
