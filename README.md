@@ -1,4 +1,4 @@
-##👨‍💻Olá! Sou o Lucas Miranda
+## 👨‍💻Olá! Sou o Lucas Miranda
 <p>-Software engineering | Front-end </p>
 
 <h2> Sobre Mim</h2>
