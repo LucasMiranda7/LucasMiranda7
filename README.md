@@ -13,7 +13,6 @@
 
   </div><br/>
 
- <img align="right" alt="LucasCodes" height="250" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
   ##
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-miranda7/)
