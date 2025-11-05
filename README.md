@@ -26,7 +26,7 @@ Acabei me destacando no projeto:
     <img src="https://img.shields.io/badge/-Instagram%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-![Snake Animation] (https://github.com/LucasMiranda7/LucasMiranda7/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasMiranda7&style=flat-square&color=blueviolet" alt="Profile views">
 </div>
