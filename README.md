@@ -1,7 +1,7 @@
 ## 👨‍💻Olá! Sou o Lucas Miranda
 
 <div>
-<h2>Sobre Mim</h2>
+<h2>About</h2>
 <p>Prazer, meu nome é Lucas Miranda. Tenho 19 anos e atualmente faço faculdade de Engenharia de Software na Uninter (EAD), cursando o 1º semestre.
 Meus Conhecimentos: (EM BREVE)
 
