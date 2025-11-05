@@ -48,8 +48,4 @@ Acabei me destacando no projeto:
   <img src="https://komarev.com/ghpvc/?username=LucasMiranda7&style=flat-square&color=blueviolet" alt="Profile views">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LucasMiranda7LucasMiranda7/output/github-snake.svg" />
-</picture>
+
