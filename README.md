@@ -18,6 +18,7 @@ Acabei me destacando no projeto:
 </div>
 
 <div>
+ <h2>Redes para contato</h2>
  <a href="https://www.instagram.com/ilucas.codes/reels/" target="_blank">
     <img src="https://img.shields.io/badge/-Ver%20Reels-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
