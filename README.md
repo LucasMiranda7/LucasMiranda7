@@ -19,7 +19,10 @@ Acabei me destacando no projeto:
 
 <div>
  <h2>Redes para contato</h2>
- <a href="https://www.instagram.com/ilucas.codes/reels/" target="_blank">
+   <a href="https://www.linkedin.com/in/lucas-miranda7-077883209/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+ <a href="https://www.instagram.com/ilucas_codes/reels/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
