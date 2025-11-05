@@ -1,8 +1,6 @@
 ## 👨‍💻Olá! Sou o Lucas Miranda
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=500&lines=Front-end;Sempre+Aprendendo;Desenvolvedor+Full+Stack" alt="Typing SVG" />
-</div>
+
 <p>-Software engineering | Front-end </p>
 
 <h2>Sobre Mim:</h2>
