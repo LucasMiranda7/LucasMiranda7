@@ -1,12 +1,10 @@
-<!-- ---------------------------------------------------------------- Borda da Página ---------------------------------------------------------------- -->
-<img width="1584" height="396" alt="Banner_Linkedin2026" src="https://github.com/user-attachments/assets/56d8c3bd-7058-4d7f-8108-54bb87d41bf9" />
+<!-- ----------------------------------------------------------------Capa apresentativa  ---------------------------------------------------------------- -->
+<img width="1584" height="396" alt="Banner2_Linkedin2025" src="https://github.com/user-attachments/assets/763a91f3-3e30-4ff9-96fd-9478620f79ae" />
+
 
 <!--![](https://capsule-render.vercel.app/api?type=waving&height=150&color=0b53bb&textBg=false&section=header)
 
-<!-- ----------------------  Minha apresentação  ------------------------------- -->
-
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0B53BB&center=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBOl%C3%A1!+Sou+o+Lucas+Miranda;Desenvolvedor+Front-end)](https://git.io/typing-svg)
-
 
 <!-- ---------------------- Sobre mim  ------------------------------- -->
 
