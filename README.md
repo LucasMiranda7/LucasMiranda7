@@ -1,4 +1,6 @@
 <!-- ---------------------------------------------------------------- Borda da Página ---------------------------------------------------------------- -->
+<img width="1584" height="396" alt="Banner_Linkedin2026" src="https://github.com/user-attachments/assets/56d8c3bd-7058-4d7f-8108-54bb87d41bf9" />
+
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=0b53bb&textBg=false&section=header)
 
 <!-- ----------------------  Minha apresentação  ------------------------------- -->
