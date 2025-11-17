@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=0b53bb&textBg=false&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=0b53bb&textBg=false&section=header)
 ## 👨‍💻Olá! Sou o Lucas Miranda
 
 <div>
