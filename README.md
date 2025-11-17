@@ -42,8 +42,9 @@ Acabei me destacando no projeto:
 </div>
 
 <!-- ----------------------  Conhecimentos+Habilidades  ------------------------------- -->
+<br>
 
-<div>
+<div> 
 <div align="center">
   <p><em>(HABILIDADES)</em></p>
 </div>
