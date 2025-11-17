@@ -2,17 +2,17 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=0b53bb&textBg=false&section=header)
 
-<div align="center">
-  <p><strong>Olá! Me chamo Lucas Miranda</strong></p>
-  <p><em>Desenvolvedor Front-end</em></p>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0B53BB&center=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBOl%C3%A1!+Sou+o+Lucas+Miranda;Desenvolvedor+Front-end)](https://git.io/typing-svg) 
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0B53BB&center=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBOl%C3%A1!+Sou+o+Lucas+Miranda;Desenvolvedor+Front-end)](https://git.io/typing-svg) -->
+---
 
 <!-- ---------------------- Sobre mim  ------------------------------- -->
 
 <div>
-<h2>Sobre mim</h2>
+<div align="center">
+  <p><em>(SOBRE MIM)</em></p>
+</div>
+  
 <p>Prazer, meu nome é Lucas Miranda. Tenho 19 anos e atualmente faço faculdade de Engenharia de Software na Uninter (EAD), cursando o 1º semestre.
 Meus Conhecimentos: (EM BREVE)
 
@@ -43,9 +43,13 @@ Acabei me destacando no projeto:
 
 <!-- ----------------------  Conhecimentos+Habilidades  ------------------------------- -->
 
-## Skills
+<div>
+<div align="center">
+  <p><em>(HABILIDADES)</em></p>
+</div>
 <div >
-  Em breve
+ <p>Em breve</p>
+</div>
   <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -55,12 +59,18 @@ Acabei me destacando no projeto:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
-</div>
+-->
+  
+---
 
 <!-- ----------------------  Contatos  ------------------------------- -->
 
 <div>  
- <h2>Networks for contact</h2>
+  <div>
+<div align="center">
+  <p><em>(CONTATOS)</em></p>
+</div>
+ 
    <a href="https://www.linkedin.com/in/lucas-miranda7/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -68,6 +78,8 @@ Acabei me destacando no projeto:
     <img src="https://img.shields.io/badge/-Instagram%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
+
+---
 
 <!-- ---------------------- Footer  ------------------------------- -->
 
