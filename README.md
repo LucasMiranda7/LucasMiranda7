@@ -27,11 +27,16 @@ Acabei me destacando no projeto:
 <table>
   <tr>
     <td>
-<img height="180"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasMiranda7&theme=blue_green"/> 
+      <img height="180"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasMiranda7&theme=blue_green"/> 
+      <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasMiranda7&theme=blue_green"/>
       </td>
-    <td>
-<img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasMiranda7&theme=blue_green"/>
+   
+   </tr>
+   <tr>
+        <td>
+       <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMiranda7&theme=blue_green"/>
       </td>
+    
    </tr>
   
  </table>
