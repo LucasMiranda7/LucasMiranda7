@@ -24,22 +24,22 @@ Acabei me destacando no projeto:
 - Me classifiquei para a etapa final de projetos mais destacados, na qual fiquei na 7ª posição e recebi uma premiação da Alura.
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img height="180"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasMiranda7&theme=blue_green"/> 
-      <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasMiranda7&theme=blue_green"/>
+<div style="text-align: center;">
+  <table style="display: inline-block;/">
+    <tr>
+      <td style="text-align: center;">
+        <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasMiranda7&theme=blue_green"/>
+        <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasMiranda7&theme=blue_green"/>
       </td>
-   
-   </tr>
-   <tr>
-        <td>
-       <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMiranda7&theme=blue_green"/>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMiranda7&theme=blue_green"/>
       </td>
-    
-   </tr>
-  
- </table>
+    </tr>
+  </table>
+</div>
+
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
