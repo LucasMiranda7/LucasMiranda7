@@ -24,8 +24,8 @@ Acabei me destacando no projeto:
 - Me classifiquei para a etapa final de projetos mais destacados, na qual fiquei na 7ª posição e recebi uma premiação da Alura.
 </p>
 
-<div style="text-align: center;">
-  <table style="display: inline-block;/">
+<p align="center">
+  <table style="display: inline-block;">
     <tr>
       <td style="text-align: center;">
         <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasMiranda7&theme=blue_green"/>
@@ -38,7 +38,7 @@ Acabei me destacando no projeto:
       </td>
     </tr>
   </table>
-</div>
+</p>
 
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
