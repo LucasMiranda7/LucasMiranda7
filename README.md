@@ -16,12 +16,18 @@
 <p>Prazer, meu nome é Lucas Miranda. Tenho 19 anos e atualmente faço faculdade de Engenharia de Software na Uninter (EAD), cursando o 1º semestre.
 Meus Conhecimentos: (EM BREVE)
 
-Em 2024, participei da Imersão IA da Alura. O desafio final era criar um ChatBot para auxiliar a população em geral.
+Em 2024, participei da Imersão IA da Alura. O desafio final era criar um ChatBot para auxiliar a população em geral. Através disso, surgiu o Mesa Compartilhada.
 
 Acabei me destacando no projeto:
 
 - Fiquei na 15ª posição dos projetos mais votados.
-- Me classifiquei para a etapa final de projetos mais destacados, na qual fiquei na 7ª posição e recebi uma premiação da Alura.
+- 7ª Posição melhores projetos entre top 100ª (avaliado pelos jurados)
+- Conquistei um Assinatura Alura + Kit Alura
+
+Em 2025, participei da Imersão Devs IA da Alura. Criando uma base de conhecimento através de HTML,CSS,JS e Google Gemini. O desafio final era desenvolver um site web que fosse capaz de buscar informações sobre algo do seu gosto. Atráves disso, Surgiu o AnimNexus.
+
+- 8ª Posição melhores projetos entre o top 100ª (avaliado pelos jurados)
+- Conquistei um Assinatura Alura + Kit Alura
 </p>
 
 <p align="center">
