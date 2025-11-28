@@ -18,8 +18,6 @@ Meus Conhecimentos: (EM BREVE)
 
 Em 2024, participei da Imersão IA da Alura. O desafio final era criar um ChatBot para auxiliar a população em geral. Através disso, surgiu o Mesa Compartilhada.
 
-Acabei me destacando no projeto:
-
 - Fiquei na 15ª posição dos projetos mais votados.
 - 7ª Posição melhores projetos entre top 100ª (avaliado pelos jurados)
 - Conquistei um Assinatura Alura + Kit Alura
