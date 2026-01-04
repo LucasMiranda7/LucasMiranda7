@@ -15,7 +15,7 @@
   <p><em>(SOBRE MIM)</em></p>
 </div>
   
-<p>Prazer, meu nome é Lucas Miranda. Tenho 19 anos e atualmente faço faculdade de Engenharia de Software na Uninter (EAD), cursando o 1º semestre.
+<p>Prazer, meu nome é Lucas Miranda. Tenho 20 anos e atualmente faço faculdade de Engenharia de Software na Uninter (EAD), cursando o 1º semestre.
 Meus Conhecimentos: (EM BREVE)
 
 Em **2024**, participei da Imersão IA da Alura. O desafio final era criar um ChatBot para auxiliar a população em geral. Através disso, surgiu o Mesa Compartilhada.
