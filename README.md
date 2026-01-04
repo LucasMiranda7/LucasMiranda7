@@ -56,37 +56,24 @@ Em **2025**, participei da Imersão Devs IA da Alura. Criando uma base de conhec
 <!-- ----------------------  Conhecimentos+Habilidades  ------------------------------- -->
 <br>
 
-<div> 
-<div align="center">
-  <p><em>(HABILIDADES)</em></p>
-</div>
-  <!--
-<div >
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
- <p>Restante Em breve</p>
-</div> -->
+![Linguagens](https://img.shields.io/badge/L%20I%20N%20G%20U%20A%20G%20E%20N%20S-blue?style=for-the-badge)![Ferramentas](https://img.shields.io/badge/F%20E%20R%20R%20A%20M%20E%20N%20T%20A%20S-purple?style=for-the-badge)![OS](https://img.shields.io/badge/Sistema%20Operacional-black?style=for-the-badge)
+
+<!--
+[![Linguagens2]() [![Ferramentas2]()   [![OS2]()]() 
+-->
 <p>Em breve</p>
-  
----
 
 <!-- ----------------------  Contatos  ------------------------------- -->
-
-<div>  
-  <div>
-<div align="center">
-  <p><em>(CONTATOS)</em></p>
-</div>
+    
+ ![Social](https://img.shields.io/badge/Social%20Space-grey?style=for-the-badge)
  
-   <a href="https://www.linkedin.com/in/lucas-miranda7/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-miranda7/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
- <a href="https://www.instagram.com/ilucas_codes/reels/" target="_blank">
+</a>
+<a href="https://www.instagram.com/ilucas_codes/reels/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
+</a>
+
 
 ---
 
