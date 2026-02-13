@@ -83,6 +83,10 @@ Em **2025**, participei da Imersão Devs IA da Alura. Criando uma base de conhec
     <img src="https://komarev.com/ghpvc/?username=LucasMiranda7&style=flat-square&color=blueviolet" alt="Profile views">
     <img align="right" alt="LucasCodes" height="200" src="https://github.com/user-attachments/assets/72c38c13-e7a4-461f-ab5f-61a7960a1535"/
   </div>
+  <p><em><q>Simplicidade é a chave para o sucesso</q></em></p>
+  <p style= "tex-align: center;"><em><q>Muitas vezes, você entra em uma situação sobre a qual não sabe nada. <br> O que você precisa é ser rápido para agir... e tomar decisões difíceis nos piores cenários.</q></em></p>
+  <p><strong>Levi Arckeman</strong></p>
+
   
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=0b53bb&textBg=false&section=footer)
 
